@@ -10,7 +10,7 @@
 
 ## 🔍 Interests
 I'm currently interested in learning more about Cyber Security and coding with Rust! 
-A recent hobby I have picked up is ricing Linux(Endeavour OS with Hyprland as my WM).
+A recent hobby I have picked up is ricing Linux (Endeavour OS with Hyprland as my WM).
 For the past 4 years I have also been learning Japanese in my free time. 🗾
 
 # 💻 Tech Stack:
